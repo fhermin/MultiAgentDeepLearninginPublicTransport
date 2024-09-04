@@ -4,6 +4,7 @@
 
 ## 📋 Descripción
 Este proyecto tiene como objetivo mejorar la eficiencia del sistema de transporte público en Hermosillo, Sonora, aplicando técnicas avanzadas de inteligencia artificial, específicamente el **Aprendizaje por Refuerzo Multiagente (MARL)**. Se busca optimizar tanto el diseño de las rutas como el establecimiento de frecuencias de servicio, mejorando así la experiencia de los usuarios y la operación del sistema.
+El proyecto fue realizado para la materia de Topicos de Inteligencia Artificial , donde agradecemos a UNE por prestar sus datos para poder llevarse a cabo.
 
 ## 🎯 Objetivos
 - 🚍 **Optimización de Rutas:** Rediseñar las rutas actuales para reducir los tiempos de viaje y mejorar la conectividad.
@@ -19,7 +20,7 @@ El proyecto emplea **MARL**, permitiendo que diferentes rutas (representadas com
 - 💡 **Optimización del Sistema:** Implementación de un sistema de transporte público más efectivo y adaptado a las necesidades reales de la población.
 
 ## ✅ Conclusión
-Este proyecto representa un avance significativo en la gestión y operación de sistemas de transporte público utilizando inteligencia artificial. Los resultados obtenidos proporcionarán una base sólida para futuras implementaciones y mejoras en otros contextos urbanos.
+Este proyecto representa un avance significativo en la gestión y operación de sistemas de transporte público utilizando inteligencia artificial.
 
 
 
